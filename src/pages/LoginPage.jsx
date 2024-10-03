@@ -40,7 +40,7 @@ function LoginPage() {
               <a
                 className="font-bold text-sm text-blue-500 hover:text-blue-800"
                 href="#"
-              > ลืมรหัสผ่าน? </a>
+              > ลืมรหัสผ่าน ? </a>
             </div>
             <div class="flex justify-end mt-3">
               <button
